@@ -1,0 +1,549 @@
+2026-05-14 00:06:31,610 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 00:06:31,612 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 00:06:36,615 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 00:06:40,332 - app.services.rag_service - ERROR - Error loading documents for engineering: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:40,332 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 00:06:40,947 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 00:06:41,115 - app.services.rag_service - ERROR - Error loading documents for finance: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:41,115 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 00:06:41,310 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 00:06:41,481 - app.services.rag_service - ERROR - Error loading documents for general: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:41,481 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 00:06:41,481 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 00:06:41,564 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 00:06:41,732 - app.services.rag_service - ERROR - Error loading documents for hr: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:41,732 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 00:06:42,512 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 00:06:42,682 - app.services.rag_service - ERROR - Error loading documents for marketing: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:54,723 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 00:06:54,730 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 00:06:57,222 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 00:06:57,856 - app.services.rag_service - ERROR - Error loading documents for engineering: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:57,856 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 00:06:58,189 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 00:06:58,385 - app.services.rag_service - ERROR - Error loading documents for finance: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:58,385 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 00:06:58,482 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 00:06:58,763 - app.services.rag_service - ERROR - Error loading documents for general: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:58,763 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 00:06:58,763 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 00:06:58,788 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 00:06:58,988 - app.services.rag_service - ERROR - Error loading documents for hr: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:06:58,988 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 00:06:59,513 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 00:06:59,729 - app.services.rag_service - ERROR - Error loading documents for marketing: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:23:59,569 - app.services.rag_service - ERROR - Error searching engineering vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:23:59,845 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:24:04,746 - app.services.rag_service - ERROR - Error searching engineering vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:24:04,920 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:28:34,436 - app.services.rag_service - ERROR - Error searching engineering vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:28:34,585 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:30:04,204 - app.services.rag_service - ERROR - Error searching finance vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:30:04,465 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:32:05,407 - app.services.rag_service - ERROR - Error searching marketing vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:32:05,569 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:32:08,357 - app.services.rag_service - ERROR - Error searching marketing vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:32:08,518 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:33:25,787 - app.services.rag_service - ERROR - Error searching hr vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:33:26,072 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:09,918 - app.services.rag_service - ERROR - Error searching engineering vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:10,086 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:10,305 - app.services.rag_service - ERROR - Error searching engineering vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:10,459 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:10,785 - app.services.rag_service - ERROR - Error searching finance vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:11,037 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:11,286 - app.services.rag_service - ERROR - Error searching marketing vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:11,557 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:11,786 - app.services.rag_service - ERROR - Error searching hr vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:56:11,936 - app.services.rag_service - ERROR - Error searching general vector store: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-05-14 00:57:09,962 - app.services.rag_service - ERROR - OpenAI API key not configured properly
+2026-05-14 01:00:00,699 - app.services.rag_service - ERROR - OpenAI API key not configured properly
+2026-05-14 01:00:32,442 - app.services.rag_service - ERROR - OpenAI API key not configured properly
+2026-05-14 01:01:52,964 - app.services.rag_service - INFO - Using OpenAI API key: sk-proj-YF...51YA
+2026-05-14 01:01:55,323 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:01:55,336 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:01:57,241 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:02:01,411 - app.services.rag_service - ERROR - Error loading documents for engineering: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-05-14 01:02:01,413 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:02:01,688 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:02:03,969 - app.services.rag_service - ERROR - Error loading documents for finance: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-05-14 01:02:03,969 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:02:04,064 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:02:07,105 - app.services.rag_service - ERROR - Error loading documents for general: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-05-14 01:02:07,107 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:02:07,108 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:02:07,140 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:02:09,310 - app.services.rag_service - ERROR - Error loading documents for hr: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-05-14 01:02:09,310 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:02:09,680 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:02:11,788 - app.services.rag_service - ERROR - Error loading documents for marketing: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-05-14 01:10:32,797 - app.services.rag_service - ERROR - OpenAI API key not configured properly
+2026-05-14 01:10:37,078 - app.services.rag_service - ERROR - OpenAI API key not configured properly
+2026-05-14 01:10:46,575 - app.services.rag_service - ERROR - Groq API key not configured properly
+2026-05-14 01:11:59,977 - app.services.rag_service - ERROR - Groq API key not configured properly
+2026-05-14 01:15:49,490 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-14 01:16:14,445 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:16:14,445 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:16:16,328 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:16:17,488 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-14 01:16:17,488 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:16:17,812 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:16:18,405 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-14 01:16:18,405 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:16:18,559 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:16:19,031 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-14 01:16:19,033 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:16:19,033 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:16:19,090 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:16:19,891 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-14 01:16:19,892 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:16:20,428 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:16:21,661 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-14 01:16:37,940 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-14 01:16:45,579 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:16:45,579 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:16:47,259 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:16:48,351 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-14 01:16:48,351 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:16:48,665 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:16:49,218 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-14 01:16:49,218 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:16:49,364 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:16:49,804 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-14 01:16:49,804 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:16:49,804 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:16:49,846 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:16:50,730 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-14 01:16:50,730 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:16:51,238 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:16:52,268 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-14 01:20:07,175 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-14 01:20:14,890 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:20:14,890 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:20:16,794 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:20:18,100 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-14 01:20:18,100 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:20:18,512 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:20:19,127 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-14 01:20:19,129 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:20:19,249 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:20:19,683 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-14 01:20:19,685 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:20:19,685 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:20:19,731 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:20:20,454 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-14 01:20:20,454 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:20:20,930 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:20:21,996 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-14 01:20:36,871 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-14 01:20:44,616 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:20:44,616 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:20:46,400 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:20:47,394 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-14 01:20:47,397 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:20:47,752 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:20:48,315 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-14 01:20:48,317 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:20:48,447 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:20:48,904 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-14 01:20:48,905 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:20:48,906 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:20:48,950 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:20:49,781 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-14 01:20:49,782 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:20:50,253 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:20:51,280 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-14 01:36:56,989 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-14 01:39:21,431 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-14 01:39:29,298 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:39:29,298 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:39:29,310 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:39:29,312 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:39:31,482 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:39:31,482 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:39:33,983 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-14 01:39:33,983 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:39:34,025 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-14 01:39:34,027 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:39:34,346 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:39:34,374 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:39:35,632 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-14 01:39:35,636 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:39:35,743 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-14 01:39:35,744 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:39:35,808 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:39:35,969 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:39:36,537 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-14 01:39:36,547 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:39:36,548 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:39:36,625 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:39:36,640 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-14 01:39:36,642 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:39:36,642 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:39:36,689 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:39:38,032 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-14 01:39:38,033 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:39:38,068 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-14 01:39:38,069 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:39:38,624 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:39:38,636 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:39:40,603 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-14 01:39:40,632 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-14 01:40:00,963 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-14 01:40:08,602 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:40:08,602 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:40:08,614 - app.services.rag_service - INFO - Loading documents...
+2026-05-14 01:40:08,617 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-14 01:40:10,712 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:40:10,712 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-14 01:40:13,411 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-14 01:40:13,411 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:40:13,440 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-14 01:40:13,441 - app.services.rag_service - INFO - Processing department: finance
+2026-05-14 01:40:13,794 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:40:13,854 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-14 01:40:14,830 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-14 01:40:14,830 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:40:14,868 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-14 01:40:14,869 - app.services.rag_service - INFO - Processing department: general
+2026-05-14 01:40:14,995 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:40:15,045 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-14 01:40:15,826 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-14 01:40:15,826 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:40:15,828 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:40:15,864 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-14 01:40:15,864 - app.services.rag_service - INFO - Processing department: hr
+2026-05-14 01:40:15,865 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-14 01:40:15,872 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:40:15,896 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-14 01:40:17,442 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-14 01:40:17,442 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:40:17,483 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-14 01:40:17,484 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-14 01:40:18,136 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:40:18,200 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-14 01:40:20,308 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-14 01:40:20,347 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-15 23:34:12,245 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-15 23:34:20,995 - app.services.rag_service - INFO - Loading documents...
+2026-05-15 23:34:20,995 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-15 23:34:23,442 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-15 23:34:25,198 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-15 23:34:25,198 - app.services.rag_service - INFO - Processing department: finance
+2026-05-15 23:34:25,695 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-15 23:34:26,573 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-15 23:34:26,574 - app.services.rag_service - INFO - Processing department: general
+2026-05-15 23:34:26,719 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-15 23:34:27,426 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-15 23:34:27,430 - app.services.rag_service - INFO - Processing department: hr
+2026-05-15 23:34:27,430 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-15 23:34:27,488 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-15 23:34:28,730 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-15 23:34:28,735 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-15 23:34:29,557 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-15 23:34:31,027 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-15 23:34:31,359 - app.services.rag_service - ERROR - Error generating response: Error code: 404 - {'error': {'message': 'The model `llama3-8b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-05-15 23:36:12,809 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-15 23:36:20,654 - app.services.rag_service - INFO - Loading documents...
+2026-05-15 23:36:20,654 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-15 23:36:22,929 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-15 23:36:25,025 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-15 23:36:25,025 - app.services.rag_service - INFO - Processing department: finance
+2026-05-15 23:36:25,569 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-15 23:36:26,446 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-15 23:36:26,448 - app.services.rag_service - INFO - Processing department: general
+2026-05-15 23:36:26,584 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-15 23:36:27,337 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-15 23:36:27,337 - app.services.rag_service - INFO - Processing department: hr
+2026-05-15 23:36:27,339 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-15 23:36:27,394 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-15 23:36:28,620 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-15 23:36:28,620 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-15 23:36:29,220 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-15 23:36:30,822 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-15 23:37:15,132 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-15 23:37:23,038 - app.services.rag_service - INFO - Loading documents...
+2026-05-15 23:37:23,038 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-15 23:37:26,100 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-15 23:37:28,777 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-15 23:37:28,777 - app.services.rag_service - INFO - Processing department: finance
+2026-05-15 23:37:29,270 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-15 23:37:30,140 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-15 23:37:30,142 - app.services.rag_service - INFO - Processing department: general
+2026-05-15 23:37:30,284 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-15 23:37:31,033 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-15 23:37:31,033 - app.services.rag_service - INFO - Processing department: hr
+2026-05-15 23:37:31,035 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-15 23:37:31,091 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-15 23:37:32,353 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-15 23:37:32,355 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-15 23:37:33,204 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-15 23:37:34,914 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-15 23:37:59,945 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-15 23:38:07,362 - app.services.rag_service - INFO - Loading documents...
+2026-05-15 23:38:07,374 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-15 23:38:09,540 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-15 23:38:11,036 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-15 23:38:11,036 - app.services.rag_service - INFO - Processing department: finance
+2026-05-15 23:38:11,449 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-15 23:38:12,373 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-15 23:38:12,375 - app.services.rag_service - INFO - Processing department: general
+2026-05-15 23:38:12,516 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-15 23:38:13,204 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-15 23:38:13,207 - app.services.rag_service - INFO - Processing department: hr
+2026-05-15 23:38:13,211 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-15 23:38:13,236 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-15 23:38:14,271 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-15 23:38:14,274 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-15 23:38:14,998 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-15 23:38:16,614 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-17 00:11:41,826 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-17 00:11:48,961 - app.services.rag_service - INFO - Loading documents...
+2026-05-17 00:11:48,962 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-17 00:11:50,765 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-17 00:11:52,323 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-17 00:11:52,323 - app.services.rag_service - INFO - Processing department: finance
+2026-05-17 00:11:52,750 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-17 00:11:53,383 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-17 00:11:53,388 - app.services.rag_service - INFO - Processing department: general
+2026-05-17 00:11:53,505 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-17 00:11:53,988 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-17 00:11:53,988 - app.services.rag_service - INFO - Processing department: hr
+2026-05-17 00:11:53,990 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-17 00:11:54,046 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-17 00:11:54,957 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-17 00:11:54,957 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-17 00:11:55,590 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-17 00:11:56,790 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-17 00:12:11,923 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-17 00:12:18,818 - app.services.rag_service - INFO - Loading documents...
+2026-05-17 00:12:18,818 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-17 00:12:20,513 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-17 00:12:21,574 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-17 00:12:21,574 - app.services.rag_service - INFO - Processing department: finance
+2026-05-17 00:12:21,873 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-17 00:12:22,492 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-17 00:12:22,493 - app.services.rag_service - INFO - Processing department: general
+2026-05-17 00:12:22,611 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-17 00:12:23,075 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-17 00:12:23,077 - app.services.rag_service - INFO - Processing department: hr
+2026-05-17 00:12:23,077 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-17 00:12:23,107 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-17 00:12:23,984 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-17 00:12:23,986 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-17 00:12:24,440 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-17 00:12:25,640 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-17 00:29:02,551 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-17 00:29:09,400 - app.services.rag_service - INFO - Loading documents...
+2026-05-17 00:29:09,400 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-17 00:29:11,081 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-17 00:29:12,438 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-17 00:29:12,438 - app.services.rag_service - INFO - Processing department: finance
+2026-05-17 00:29:12,820 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-17 00:29:13,452 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-17 00:29:13,452 - app.services.rag_service - INFO - Processing department: general
+2026-05-17 00:29:13,550 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-17 00:29:14,000 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-17 00:29:14,000 - app.services.rag_service - INFO - Processing department: hr
+2026-05-17 00:29:14,000 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-17 00:29:14,045 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-17 00:29:14,758 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-17 00:29:14,758 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-17 00:29:15,161 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-17 00:29:16,242 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-17 00:31:08,741 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-17 00:31:15,644 - app.services.rag_service - INFO - Loading documents...
+2026-05-17 00:31:15,646 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-17 00:31:17,238 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-17 00:31:18,528 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-17 00:31:18,528 - app.services.rag_service - INFO - Processing department: finance
+2026-05-17 00:31:18,840 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-17 00:31:19,426 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-17 00:31:19,428 - app.services.rag_service - INFO - Processing department: general
+2026-05-17 00:31:19,536 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-17 00:31:19,991 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-17 00:31:19,991 - app.services.rag_service - INFO - Processing department: hr
+2026-05-17 00:31:19,996 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-17 00:31:20,031 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-17 00:31:20,756 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-17 00:31:20,757 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-17 00:31:21,182 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-17 00:31:22,220 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-17 00:31:35,491 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-17 00:31:42,115 - app.services.rag_service - INFO - Loading documents...
+2026-05-17 00:31:42,115 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-17 00:31:43,731 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-17 00:31:44,770 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-17 00:31:44,770 - app.services.rag_service - INFO - Processing department: finance
+2026-05-17 00:31:45,060 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-17 00:31:45,661 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-17 00:31:45,663 - app.services.rag_service - INFO - Processing department: general
+2026-05-17 00:31:45,780 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-17 00:31:46,263 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-17 00:31:46,267 - app.services.rag_service - INFO - Processing department: hr
+2026-05-17 00:31:46,267 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-17 00:31:46,291 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-17 00:31:47,033 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-17 00:31:47,035 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-17 00:31:47,445 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-17 00:31:48,467 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-18 00:24:11,096 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-18 00:24:23,278 - app.services.rag_service - INFO - Loading documents...
+2026-05-18 00:24:23,278 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-18 00:24:29,890 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-18 00:24:32,836 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-18 00:24:32,838 - app.services.rag_service - INFO - Processing department: finance
+2026-05-18 00:24:34,115 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-18 00:24:35,720 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-18 00:24:35,720 - app.services.rag_service - INFO - Processing department: general
+2026-05-18 00:24:36,069 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-18 00:24:37,275 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-18 00:24:37,279 - app.services.rag_service - INFO - Processing department: hr
+2026-05-18 00:24:37,280 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-18 00:24:37,380 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-18 00:24:39,667 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-18 00:24:39,667 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-18 00:24:41,581 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-18 00:24:44,610 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-18 00:26:13,935 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-18 00:26:25,047 - app.services.rag_service - INFO - Loading documents...
+2026-05-18 00:26:25,047 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-18 00:26:27,544 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-18 00:26:29,746 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-18 00:26:29,746 - app.services.rag_service - INFO - Processing department: finance
+2026-05-18 00:26:30,291 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-18 00:26:31,246 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-18 00:26:31,248 - app.services.rag_service - INFO - Processing department: general
+2026-05-18 00:26:31,447 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-18 00:26:32,214 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-18 00:26:32,215 - app.services.rag_service - INFO - Processing department: hr
+2026-05-18 00:26:32,215 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-18 00:26:32,292 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-18 00:26:33,473 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-18 00:26:33,478 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-18 00:26:34,333 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-18 00:26:35,860 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-18 00:27:51,972 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-18 00:28:00,483 - app.services.rag_service - INFO - Loading documents...
+2026-05-18 00:28:00,483 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-18 00:28:03,539 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-18 00:28:05,560 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-18 00:28:05,563 - app.services.rag_service - INFO - Processing department: finance
+2026-05-18 00:28:06,151 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-18 00:28:07,227 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-18 00:28:07,227 - app.services.rag_service - INFO - Processing department: general
+2026-05-18 00:28:07,513 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-18 00:28:08,786 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-18 00:28:08,787 - app.services.rag_service - INFO - Processing department: hr
+2026-05-18 00:28:08,788 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-18 00:28:08,859 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-18 00:28:10,424 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-18 00:28:10,424 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-18 00:28:11,477 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-18 00:28:13,359 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-18 00:29:25,765 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-18 00:29:33,424 - app.services.rag_service - INFO - Loading documents...
+2026-05-18 00:29:33,429 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-18 00:29:35,990 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-18 00:29:37,812 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-18 00:29:37,812 - app.services.rag_service - INFO - Processing department: finance
+2026-05-18 00:29:38,297 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-18 00:29:39,185 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-18 00:29:39,187 - app.services.rag_service - INFO - Processing department: general
+2026-05-18 00:29:39,349 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-18 00:29:40,007 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-18 00:29:40,009 - app.services.rag_service - INFO - Processing department: hr
+2026-05-18 00:29:40,009 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-18 00:29:40,067 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-18 00:29:41,188 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-18 00:29:41,188 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-18 00:29:41,795 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-18 00:29:43,558 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-18 00:31:10,298 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-18 00:31:17,842 - app.services.rag_service - INFO - Loading documents...
+2026-05-18 00:31:17,844 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-18 00:31:20,043 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-18 00:31:22,050 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-18 00:31:22,050 - app.services.rag_service - INFO - Processing department: finance
+2026-05-18 00:31:22,409 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-18 00:31:23,251 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-18 00:31:23,251 - app.services.rag_service - INFO - Processing department: general
+2026-05-18 00:31:23,409 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-18 00:31:24,127 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-18 00:31:24,127 - app.services.rag_service - INFO - Processing department: hr
+2026-05-18 00:31:24,129 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-18 00:31:24,192 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-18 00:31:25,420 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-18 00:31:25,420 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-18 00:31:26,090 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-18 00:31:27,642 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-18 00:31:28,191 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:31:28,341 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:31:28,489 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:31:28,626 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:31:28,793 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:31:28,913 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:31:29,034 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:31:29,152 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:33:09,441 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-18 00:33:17,614 - app.services.rag_service - INFO - Loading documents...
+2026-05-18 00:33:17,616 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-18 00:33:20,242 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-18 00:33:22,458 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-18 00:33:22,458 - app.services.rag_service - INFO - Processing department: finance
+2026-05-18 00:33:22,966 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-18 00:33:23,949 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-18 00:33:23,950 - app.services.rag_service - INFO - Processing department: general
+2026-05-18 00:33:24,089 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-18 00:33:24,952 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-18 00:33:24,955 - app.services.rag_service - INFO - Processing department: hr
+2026-05-18 00:33:24,955 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-18 00:33:24,999 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-18 00:33:26,360 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-18 00:33:26,360 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-18 00:33:27,478 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-18 00:33:30,898 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-18 00:33:31,758 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:33:32,004 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:33:32,230 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:33:32,429 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:33:32,720 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:33:32,914 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:33:33,084 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:33:33,280 - app.services.rag_service - ERROR - Error generating response: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2026-05-18 00:36:28,987 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-18 00:36:36,979 - app.services.rag_service - INFO - Loading documents...
+2026-05-18 00:36:36,981 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-18 00:36:41,007 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-18 00:36:43,432 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-18 00:36:43,432 - app.services.rag_service - INFO - Processing department: finance
+2026-05-18 00:36:44,031 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-18 00:36:45,123 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-18 00:36:45,123 - app.services.rag_service - INFO - Processing department: general
+2026-05-18 00:36:45,350 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-18 00:36:46,469 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-18 00:36:46,469 - app.services.rag_service - INFO - Processing department: hr
+2026-05-18 00:36:46,476 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-18 00:36:46,647 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-18 00:36:48,663 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-18 00:36:48,672 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-18 00:36:49,835 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-18 00:36:52,023 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
+2026-05-18 00:37:20,180 - app.services.rag_service - INFO - Using Groq API key: gsk_pjCy6B...fY3e
+2026-05-18 00:37:28,557 - app.services.rag_service - INFO - Loading documents...
+2026-05-18 00:37:28,557 - app.services.rag_service - INFO - Processing department: engineering
+2026-05-18 00:37:31,640 - app.services.rag_service - INFO - Loaded 1 markdown documents from engineering
+2026-05-18 00:37:33,952 - app.services.rag_service - INFO - Added 33 document chunks to engineering vector store
+2026-05-18 00:37:33,952 - app.services.rag_service - INFO - Processing department: finance
+2026-05-18 00:37:34,513 - app.services.rag_service - INFO - Loaded 2 markdown documents from finance
+2026-05-18 00:37:35,739 - app.services.rag_service - INFO - Added 23 document chunks to finance vector store
+2026-05-18 00:37:35,744 - app.services.rag_service - INFO - Processing department: general
+2026-05-18 00:37:35,959 - app.services.rag_service - INFO - Loaded 1 markdown documents from general
+2026-05-18 00:37:37,047 - app.services.rag_service - INFO - Added 16 document chunks to general vector store
+2026-05-18 00:37:37,047 - app.services.rag_service - INFO - Processing department: hr
+2026-05-18 00:37:37,047 - app.services.rag_service - INFO - Loaded 0 markdown documents from hr
+2026-05-18 00:37:37,230 - app.services.rag_service - INFO - Loaded CSV data from hr_data.csv
+2026-05-18 00:37:38,808 - app.services.rag_service - INFO - Added 35 document chunks to hr vector store
+2026-05-18 00:37:38,812 - app.services.rag_service - INFO - Processing department: marketing
+2026-05-18 00:37:39,822 - app.services.rag_service - INFO - Loaded 5 markdown documents from marketing
+2026-05-18 00:37:41,823 - app.services.rag_service - INFO - Added 41 document chunks to marketing vector store
