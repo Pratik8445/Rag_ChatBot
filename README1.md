@@ -1,5 +1,5 @@
 # 🎓 FinSolve Chatbot - Beginner's Guide 
-## Understanding the Project Like You're 5! 👶
+## Understanding the Project Like You're 5!
 
 Hello! Welcome to the most beginner-friendly guide to our chatbot project! This guide is written as if explaining to a small child. Let's make coding fun and simple! 🎉
 
