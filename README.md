@@ -73,7 +73,7 @@ What this does:
 - Loads all documents from `resources/data/`
 - Converts them into small chunks
 - Saves those chunks into ChromaDB vector stores (centralized in `./chroma_db/`)
-- Uses free HuggingFace embeddings to understand text meaning
+- Uses free HuggingFace embeddings to understand text meanings
 
 If it works, you should see:
 
