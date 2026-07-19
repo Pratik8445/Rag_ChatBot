@@ -2,7 +2,7 @@ DS RPC 01: Internal chatbot with role based access control
 
 This is the starter repository for Codebasics's [Resume Project Challenge](https://codebasics.io/challenge/codebasics-gen-ai-data-science-resume-project-challenge) of building a RAG based Internal Chatbot with role based access control. Please fork this repository to get started.
 
-## Features
+#Features
 
 - **Role-Based Access Control**: Users can only access documents relevant to their department
 - **RAG (Retrieval-Augmented Generation)**: AI-powered responses based on company documents
