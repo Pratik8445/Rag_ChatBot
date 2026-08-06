@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Table of Contents
+Table of Contents
 
 1. [What is this project?](#what-is-this-project)
 2. [Real-world analogy](#real-world-analogy)
