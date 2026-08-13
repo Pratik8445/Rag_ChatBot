@@ -38,9 +38,8 @@ We are using Groq for the chatbot brain. It is free for basic use.
 
 ```bash
 GROQ_API_KEY=gsk_your_actual_groq_api_key_here
-```
 
-### 3. (Optional) Set up HuggingFace Token
+ 3. (Optional) Set up HuggingFace Token
 
 For faster downloads and higher rate limits when using HuggingFace embeddings:
 
